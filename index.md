@@ -6,3 +6,12 @@
 ###### Bye!
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` python
+var = "Hello, World"
+lists = [1, "a", (2,4), var]
+```
+
+``` bash
+mkdir folder1
+```
