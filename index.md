@@ -19,3 +19,7 @@ git init
 ```python
 print (Hello world")
 ```
+
+- [x] 1 job application per day
+- [ ] 1 upskill per day
+- [ ] Show my word
