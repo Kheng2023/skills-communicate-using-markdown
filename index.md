@@ -9,3 +9,5 @@
 ##### Upskilling myself
 
 ###### Love to connect
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
